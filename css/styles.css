@@ -10,7 +10,39 @@
 
     background-color: blueviolet;
     color: aliceblue;
-    margin-top: -20px;
-    padding: 30px;
+    margin-top: -20px; /* Remove margem padrão do div */
+    padding: 30px; /*Define tamanho do cabelho*/
     text-align: center;
+}
+
+
+.conteudo-principal{
+
+
+    background-color: rgb(29, 24, 34);
+    color: aliceblue;
+    margin-top: 0; /* Remove margem padrão do div */
+    padding: 300px; /*Define tamanho do campo*/
+  
+
+}
+
+.conteudo-secundario{
+
+    
+    background-color:blue;
+    color: aliceblue;
+    margin-top: 0; /* Remove margem padrão do div */
+    padding: 100px; /*Define tamanho do campo*/
+    text-align: center;/*Define texto centralizado*/
+
+}
+
+.conteudo-principal img{
+
+float: right;
+width: 500px;
+right: 650px;
+padding: 150px;
+
 }
