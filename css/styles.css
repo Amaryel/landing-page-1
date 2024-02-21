@@ -33,7 +33,7 @@
     background-color:blue;
     color: aliceblue;
     margin-top: 0; /* Remove margem padrão do div */
-    padding: 100px; /*Define tamanho do campo*/
+    padding: 400px; /*Define tamanho do campo*/
     text-align: center;/*Define texto centralizado*/
 
 }
@@ -43,6 +43,20 @@
 float: right;
 width: 500px;
 right: 650px;
-padding: 150px;
+margin-top: -350px;
+opacity: 95%;
+
+
+}
+
+.rodape-left{
+
+    background-color: rgb(189, 38, 38);
+    color: aliceblue;
+    width: 50%;
+    margin-right: 50%;
+    margin-top: 0px; /* Remove margem padrão do div */
+    padding: 30px; /*Define tamanho do cabelho*/
+    display: inline-block;
 
 }
